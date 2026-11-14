@@ -1,1 +1,1 @@
-const nextConfig={images:{remotePatterns:[{protocol:"https",hostname:"images.unsplash.com"}]}}; export default nextConfig;
+const nextConfig={images:{remotePatterns:[{protocol:"https",hostname:"images.unsplash.com"},{protocol:"https",hostname:"nour-house.se"},{protocol:"https",hostname:"m.media-amazon.com"},{protocol:"https",hostname:"img.alkapida.com"},{protocol:"https",hostname:"s.alicdn.com"}]}}; export default nextConfig;
