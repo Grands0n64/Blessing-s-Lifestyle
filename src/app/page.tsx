@@ -9,91 +9,106 @@ const products:Product[]=
     "id": 9,
     "name": "Stainless Steel Cooking Pot Set",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
   },
   {
     "id": 10,
     "name": "Non-Stick Frying Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://s.alicdn.com/%40sc04/kf/H83c4de73433a4d7b8ff856af8a6e87b89/Stainless-Steel-12-Piece-Cookware-Set-Soup-Pot-Frying-Pan-Milk-Pot-Glass-Lid-Gold-Plated-Cookware-Set.png"
   },
   {
     "id": 11,
     "name": "Cast Iron Skillet",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
   },
   {
     "id": 12,
     "name": "Stainless Steel Saucepan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://img.alkapida.com/images/products/x/493/diamond-gold-kulplu-paslanmaz-%C3%A7elik-8-par%C3%A7a-tencere-seti---d%C4%B1a-6121---1-_zoom.jpg"
   },
   {
     "id": 13,
     "name": "Stock Pot",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
   },
   {
     "id": 14,
     "name": "Dutch Oven",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
   },
   {
     "id": 15,
     "name": "Wok Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://s.alicdn.com/%40sc04/kf/H83c4de73433a4d7b8ff856af8a6e87b89/Stainless-Steel-12-Piece-Cookware-Set-Soup-Pot-Frying-Pan-Milk-Pot-Glass-Lid-Gold-Plated-Cookware-Set.png"
   },
   {
     "id": 16,
     "name": "Grill Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=85"
   },
   {
     "id": 17,
     "name": "Crepe Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://s.alicdn.com/%40sc04/kf/H83c4de73433a4d7b8ff856af8a6e87b89/Stainless-Steel-12-Piece-Cookware-Set-Soup-Pot-Frying-Pan-Milk-Pot-Glass-Lid-Gold-Plated-Cookware-Set.png"
   },
   {
     "id": 18,
     "name": "Milk Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://img.alkapida.com/images/products/x/493/diamond-gold-kulplu-paslanmaz-%C3%A7elik-8-par%C3%A7a-tencere-seti---d%C4%B1a-6121---1-_zoom.jpg"
   },
   {
     "id": 19,
     "name": "Steamer Pot",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
   },
   {
     "id": 20,
     "name": "Pressure Cooker",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
   },
   {
     "id": 21,
     "name": "Rice Pot",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://img.alkapida.com/images/products/x/493/diamond-gold-kulplu-paslanmaz-%C3%A7elik-8-par%C3%A7a-tencere-seti---d%C4%B1a-6121---1-_zoom.jpg"
   },
   {
     "id": 22,
     "name": "Casserole Dish",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
   },
   {
     "id": 23,
     "name": "Roasting Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
   },
   {
     "id": 24,
@@ -671,7 +686,7 @@ const products:Product[]=
     "description": "Easy style inspiration for every day.",
     "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85"
   }
-];
+]
 const categories=["All","Kitchen","Dining","Home","Fashion"];
 export default function HomePage(){
 const [category,setCategory]=useState("All"),[search,setSearch]=useState(""),[bag,setBag]=useState<Product[]>([]),[open,setOpen]=useState(false),[notice,setNotice]=useState("");
