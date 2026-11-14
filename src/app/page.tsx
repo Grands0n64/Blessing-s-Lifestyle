@@ -16,7 +16,8 @@ const products:Product[]=
     "id": 10,
     "name": "Non-Stick Frying Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://olazambia.com/images/product/2019/12/10000718/a2.jpg"
   },
   {
     "id": 11,
@@ -101,13 +102,15 @@ const products:Product[]=
     "id": 24,
     "name": "Chef's Knife",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://images.surferseo.art/b9548922-3b5a-4aed-8a18-dec017945530.jpeg"
   },
   {
     "id": 25,
     "name": "Paring Knife",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://images.surferseo.art/b9548922-3b5a-4aed-8a18-dec017945530.jpeg"
   },
   {
     "id": 26,
@@ -125,7 +128,8 @@ const products:Product[]=
     "id": 28,
     "name": "Cutting Board",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://images.surferseo.art/b9548922-3b5a-4aed-8a18-dec017945530.jpeg"
   },
   {
     "id": 29,
@@ -143,19 +147,22 @@ const products:Product[]=
     "id": 31,
     "name": "Vegetable Peeler",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://inwfile.com/s-gf/14g61j.jpg"
   },
   {
     "id": 32,
     "name": "Box Grater",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://media.bunnings.com.au/api/public/content/7d6e0017e6da41b190b97ab9cb026883?v=108ce2c1"
   },
   {
     "id": 33,
     "name": "Garlic Press",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://media.bunnings.com.au/api/public/content/7d6e0017e6da41b190b97ab9cb026883?v=108ce2c1"
   },
   {
     "id": 34,
