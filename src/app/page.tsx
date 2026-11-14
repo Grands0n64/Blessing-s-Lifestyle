@@ -10,105 +10,92 @@ const products:Product[]=
     "name": "Stainless Steel Cooking Pot Set",
     "category": "Kitchen",
     "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
+    "image": "https://www.passparto.co.il/cdn/shop/collections/IMG-5940.png?v=1758203676"
   },
   {
     "id": 10,
     "name": "Non-Stick Frying Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://s.alicdn.com/%40sc04/kf/H83c4de73433a4d7b8ff856af8a6e87b89/Stainless-Steel-12-Piece-Cookware-Set-Soup-Pot-Frying-Pan-Milk-Pot-Glass-Lid-Gold-Plated-Cookware-Set.png"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 11,
     "name": "Cast Iron Skillet",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 12,
     "name": "Stainless Steel Saucepan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://img.alkapida.com/images/products/x/493/diamond-gold-kulplu-paslanmaz-%C3%A7elik-8-par%C3%A7a-tencere-seti---d%C4%B1a-6121---1-_zoom.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 13,
     "name": "Stock Pot",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 14,
     "name": "Dutch Oven",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 15,
     "name": "Wok Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://s.alicdn.com/%40sc04/kf/H83c4de73433a4d7b8ff856af8a6e87b89/Stainless-Steel-12-Piece-Cookware-Set-Soup-Pot-Frying-Pan-Milk-Pot-Glass-Lid-Gold-Plated-Cookware-Set.png"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 16,
     "name": "Grill Pan",
     "category": "Kitchen",
     "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=85"
+    "image": "https://www.lodgecastiron.com/cdn/shop/files/L8SGP3-1.20220812182330797.png?v=1743096350&width=2800"
   },
   {
     "id": 17,
     "name": "Crepe Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://s.alicdn.com/%40sc04/kf/H83c4de73433a4d7b8ff856af8a6e87b89/Stainless-Steel-12-Piece-Cookware-Set-Soup-Pot-Frying-Pan-Milk-Pot-Glass-Lid-Gold-Plated-Cookware-Set.png"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 18,
     "name": "Milk Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://img.alkapida.com/images/products/x/493/diamond-gold-kulplu-paslanmaz-%C3%A7elik-8-par%C3%A7a-tencere-seti---d%C4%B1a-6121---1-_zoom.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 19,
     "name": "Steamer Pot",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 20,
     "name": "Pressure Cooker",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 21,
     "name": "Rice Pot",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://img.alkapida.com/images/products/x/493/diamond-gold-kulplu-paslanmaz-%C3%A7elik-8-par%C3%A7a-tencere-seti---d%C4%B1a-6121---1-_zoom.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 22,
     "name": "Casserole Dish",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://nour-house.se/wp-content/uploads/2023/12/1200x12005-16.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 23,
     "name": "Roasting Pan",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
-    "image": "https://m.media-amazon.com/images/I/71AZkbmA70L.jpg"
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
   },
   {
     "id": 24,
@@ -492,7 +479,8 @@ const products:Product[]=
     "id": 87,
     "name": "Dinner Plate Set",
     "category": "Kitchen",
-    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage."
+    "description": "A practical kitchen essential for everyday cooking, preparation, serving or storage.",
+    "image": "https://shopcdnpro.grainajz.com/category/78898/1661/cdd01d2c25fb29c777e5d8fae02575d5/FYB002-4.png"
   },
   {
     "id": 88,
@@ -654,37 +642,163 @@ const products:Product[]=
     "id": 3,
     "name": "Fresh Table Setting",
     "category": "Dining",
-    "description": "Thoughtful details for everyday dining.",
-    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=85"
+    "description": "Thoughtful details for everyday dining."
   },
   {
     "id": 4,
     "name": "Bedroom Comfort",
     "category": "Home",
     "description": "Soft textures and calming bedroom inspiration.",
-    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=900&q=85",
     "tag": "Home edit"
   },
   {
     "id": 5,
     "name": "Warm Living Spaces",
     "category": "Home",
-    "description": "Finishing touches for a welcoming home.",
-    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=85"
+    "description": "Finishing touches for a welcoming home."
   },
   {
     "id": 7,
     "name": "Women's Style Edit",
     "category": "Fashion",
-    "description": "An editorial look at everyday personal style.",
-    "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85"
+    "description": "An editorial look at everyday personal style."
   },
   {
     "id": 8,
     "name": "Men's Style Edit",
     "category": "Fashion",
-    "description": "Easy style inspiration for every day.",
-    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85"
+    "description": "Easy style inspiration for every day."
+  }
+,
+  {
+    "id": 114,
+    "name": "Stainless Steel Roll-Top Chafing Dish",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://pitec.ch/media/8e/36/23/1690232557/Chafing_Dish_Rolltop_095074.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Gold Glass-Top Chafing Dish",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://s.alicdn.com/@sc04/kf/H8450b2ce780c481ca312e0af94530fdcR/Hydraulic-Roll-Top-Chaffing-Buffet-Server-Stainless-Steel-Food-Warmer-9L-Rectangular-Luxury-Gold-Chafing-Dish-for-Catering-Hotel.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Round Chafing Dish",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://www.boelsparty.com/files/shop/prod/234/316_234_20434_chafing_disch_rond_model_rvs_m.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Electric Chafing Dish",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://images-cdn.ubuy.qa/663e7ac0753ca70459622e68-electric-chafing-dish-9qt-rectangular.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Induction Chafing Dish",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://www.profishop.fr/media/image/a6/d9/d9/12322-APS_Chafing_Dish_GN_1-1_60_x_42_cm_Hoehe_30_cm_Edelstahl_-_EASY_INDUCTION_-3-65e6fd1a55532.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Stainless Steel Hotel Food Pan Set",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://down-ph.img.susercontent.com/file/ph-11134208-7rasc-m8op62gj4gwu09"
+  },
+  {
+    "id": 120,
+    "name": "Round Soup Chafer / Soup Kettle",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://cdnimg.webstaurantstore.com/images/products/extra_large/361789/1381276.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Buffet Serving Utensil Set",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://sklep.amefa.pl/hpeciai/a28f342b9d7ba956ada13a0bf6bab1d8/pol_pl_BUFFET-Lyzka-cedzakowa-214_6.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Gold Beverage Dispenser / Tea Urn",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://luxedemaisonuk.com/cdn/shop/files/B6B5547B-4A6E-417A-8F37-8EF26C9B5CD9.png?v=1759079835&width=1445"
+  },
+  {
+    "id": 123,
+    "name": "Stainless Steel Cookware Pot Set",
+    "category": "Kitchen",
+    "description": "A practical kitchen and catering essential. Product details and availability will be confirmed by Blessing.",
+    "image": "https://www.moebel-rieger.de/media/8e/aa/27/1658450427/IFm9cBLTdW7a6eMvKtpmwQ%3D%3D.jpeg"
+  },
+  {
+    "id": 124,
+    "name": "Water Pan",
+    "category": "Kitchen",
+    "description": "A stainless steel water pan for buffet service."
+  },
+  {
+    "id": 125,
+    "name": "Chafing Fuel Holder",
+    "category": "Kitchen",
+    "description": "A holder for approved chafing-dish fuel cans."
+  },
+  {
+    "id": 126,
+    "name": "Rectangular Chafing Dish",
+    "category": "Kitchen",
+    "description": "A rectangular buffet warmer for catering and food service."
+  },
+  {
+    "id": 127,
+    "name": "Divided Food Pan",
+    "category": "Kitchen",
+    "description": "A divided insert for serving multiple dishes."
+  },
+  {
+    "id": 128,
+    "name": "Bain-Marie",
+    "category": "Kitchen",
+    "description": "A bain-marie for gentle heating and buffet service."
+  },
+  {
+    "id": 129,
+    "name": "Thermal Food Flask",
+    "category": "Kitchen",
+    "description": "An insulated container for keeping prepared food warm."
+  },
+  {
+    "id": 130,
+    "name": "Chafing Dish Stand and Lid Holder",
+    "category": "Kitchen",
+    "description": "A stand and lid holder for buffet service."
+  },
+  {
+    "id": 131,
+    "name": "Soup Kettle",
+    "category": "Kitchen",
+    "description": "A deep warmer for soups and pepper soup."
+  },
+  {
+    "id": 132,
+    "name": "Beverage Dispenser",
+    "category": "Kitchen",
+    "description": "A dispenser with a tap for serving drinks."
+  },
+  {
+    "id": 133,
+    "name": "Glass-Top Chafing Dish",
+    "category": "Kitchen",
+    "description": "A buffet warmer with a clear viewing lid."
   }
 ]
 const categories=["All","Kitchen","Dining","Home","Fashion"];
